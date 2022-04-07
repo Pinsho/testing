@@ -8,7 +8,7 @@ function App() {
       <div className='myNavbar'>
         <Navbar bg="primary" variant="dark" expand="lg">
           <Container fluid>
-            <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+            <Navbar.Brand href="#">My company name</Navbar.Brand>
             <Navbar.Toggle aria-controls="navbarScroll" />
             <Navbar.Collapse id="navbarScroll">
               <Nav
